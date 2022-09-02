@@ -7,7 +7,7 @@ public class JavaC_1 {
 
 		
 
-		System.out.println("This is not a demo class");
+		System.out.println("This is selenium package");
 
 	}
 
