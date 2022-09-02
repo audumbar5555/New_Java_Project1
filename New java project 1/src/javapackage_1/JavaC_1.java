@@ -7,7 +7,7 @@ public class JavaC_1 {
 
 		
 
-		System.out.println("This is Java package");
+		System.out.println("This is a Java package");
 
 	}
 
