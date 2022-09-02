@@ -7,7 +7,7 @@ public class JavaC_1 {
 
 		
 
-		System.out.println("This is not demo program");
+		System.out.println("This is demo class");
 
 	}
 
